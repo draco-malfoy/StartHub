@@ -16,3 +16,5 @@ You can support by contributing is any of the following ways
   - add a new company to list
   - update detail of any existing company
   - provide suggestions
+  
+ **P.S:** Kindly adhere to the existing formatting and file names.

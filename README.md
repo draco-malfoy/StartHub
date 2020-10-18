@@ -13,8 +13,8 @@ Our main preference is:
 
 Feel free to provide any suggestions as issues.
 
-### Contribute:
-You can support by contributing is any of the following ways
+### Contributing Guidelines:
+You can support by contributing in any of the following ways-
 
   - add a new company to list
   - update detail of any existing company
@@ -31,6 +31,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="https://github.com/pv24"><img src="https://avatars1.githubusercontent.com/u/51431747?v=4" width="100px;" alt=""/><br /><sub><b>pv24</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=pv24" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/PrasannaBH"><img src="https://avatars3.githubusercontent.com/u/55347026?v=4" width="100px;" alt=""/><br /><sub><b>PrasannaBH</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=PrasannaBH" title="Documentation">📖</a></td>
   </tr>
 </table>

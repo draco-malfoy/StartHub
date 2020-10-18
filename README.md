@@ -22,15 +22,16 @@ You can support by contributing in any of the following ways-
   
  **P.S:** Kindly adhere to the existing formatting and file names.
 
-## Contributors ✨
+### Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="https://github.com/Dvd1234"><img src="https://avatars1.githubusercontent.com/u/26155399?v=4" width="100px;" alt=""/><br /><sub><b>Deepak Dwivedi</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=Dvd1234" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/pv24"><img src="https://avatars1.githubusercontent.com/u/51431747?v=4" width="100px;" alt=""/><br /><sub><b>pv24</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=pv24" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/PrasannaBH"><img src="https://avatars3.githubusercontent.com/u/55347026?v=4" width="100px;" alt=""/><br /><sub><b>PrasannaBH</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=PrasannaBH" title="Documentation">📖</a></td>
   </tr>

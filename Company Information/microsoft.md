@@ -1,6 +1,11 @@
-company website: https://www.microsoft.com/en-in
-company's career page: https://careers.microsoft.com/us/en
-start year: 1975
-remote work: Yes
-Degree required : Yes
-Microsoft, founded by Bill Gates and Paul Allen, has been at the forefront of providing quality products and rationalizing the way people work. The selection procedure deals with good knowledge of Data Structures and Algorithms along with a few projects and Confidence in what you do. Microsoft recruits round the year and hence keep following the Career site.
+## Microsoft
+
+Content|Description
+-|-
+Name|Microsoft
+Website|[Home Page](https://www.microsoft.com/en-in)
+Careers|[Career Page](https://careers.microsoft.com/us/en)
+Founded|1975
+Degree required|Yes
+Remote work|Yes
+History| Founded by Bill Gates and Paul Allen.Forefront of many quality products,Employees should have good DSA knowledge and done Domain Projects. Recruits round the year.

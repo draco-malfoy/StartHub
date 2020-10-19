@@ -3,7 +3,8 @@
 Content|Description
 -|-
 Name|Apple
-Website|https://www.apple.com/
-Careers|https://www.apple.com/jobs/in/
+Website|[Home Page](https://www.apple.com/)
+Careers|[Career Page](https://www.apple.com/jobs/in/)
+Founded|1976
 Degree required|Yes
 Remote work|Yes

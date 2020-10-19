@@ -3,7 +3,8 @@
 Content|Description
 -|-
 Name|Nvidia
-Website|https://www.nvidia.com/en-in/
-Careers|https://www.nvidia.com/en-us/about-nvidia/careers/how-we-hire/
+Website|[Home Page](https://www.nvidia.com/en-in/)
+Careers|[Career Page](https://www.nvidia.com/en-us/about-nvidia/careers/how-we-hire/)
+Founded|1993
 Degree required|Yes
 Remote work|Yes

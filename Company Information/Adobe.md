@@ -3,7 +3,8 @@
 Content|Description
 -|-
 Name|Adobe
-Website|https://www.adobe.com/
-Careers|https://www.adobe.com/careers.html
+Website|[Home Page](https://www.adobe.com/)
+Careers|[Career Page](https://www.adobe.com/careers.html)
+Founded|1982
 Degree required|Yes
 Remote work|Yes

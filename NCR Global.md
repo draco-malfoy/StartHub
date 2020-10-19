@@ -2,7 +2,7 @@
 
 Content|Description
 -|-
-Name|NCR
+Name|NCR Global
 Website|https://www.ncr.com/
 Careers|https://www.ncr.com/careers
 Degree required|Yes

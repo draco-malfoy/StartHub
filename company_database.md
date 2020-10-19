@@ -8,4 +8,4 @@ Name|Remote|Degree required|Other Notes
 [Wipro](https://github.com/pv24/StartHub/blob/patch-1/Wipro.md)|&check;|&check;|Well Known, Tech Gaint ,Large Corporation
 [Infosys](https://github.com/pv24/StartHub/blob/patch-1/Infosys.md)|&check;|&check;|Well Known, Tech Gaint 
 [Cognizant](https://github.com/pv24/StartHub/blob/patch-1/Cognizant.md)|&check;|&check;| Well Known, Tech Gaint
-[EblA](https://github.com/Sawsanalshaghel/StartHub/blob/main/Ebla.md)|&check;|&check;| Well Known, University
+[EblA](https://github.com/Sawsanalshaghel/StartHub/blob/main/Automata4.md)|&check;|&check;| Well Known, Computer Solutions

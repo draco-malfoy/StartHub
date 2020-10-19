@@ -10,3 +10,4 @@ Name|Remote|Degree required|Other Notes
 [HackerEarth](https://github.com/pv24/StartHub/blob/patch-1/HackerEarth.md)|&check;|&check;|Good Pay, Worklife Balance 
 [NCR GLOBAL](https://github.com/pv24/StartHub/blob/patch-1/NCR%20Global.md)|&check;|&check;|Good Pay, Large Corporation
 [Cognizant](https://github.com/pv24/StartHub/blob/patch-1/Cognizant.md)|&check;|&check;| Well Known, Tech Gaint
+[JTG](https://github.com/pv24/StartHub/blob/patch-1/JTG.md)|&check;|&check;| Good Pay, StartUp

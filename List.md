@@ -10,3 +10,4 @@ Name|Remote|Degree required|Other Notes
 [Stickermule](https://github.com/draco-malfoy/StartHub/blob/main/Database/Stickermule.md)|&cross;|&check;|Good pay, Small team
 [Tata Consultancy Services(TCS)](https://github.com/draco-malfoy/StartHub/blob/main/Database/Tata%20Consultancy%20Services(TCS).md)|&check;|&check;|Well Known, Good pay
 [Wipro](https://github.com/draco-malfoy/StartHub/blob/main/Database/Wipro.md)|&check;|&check;|Well Known, Tech Gaint ,Large Corporation
+[JTG](https://github.com/draco-malfoy/StartHub/blob/main/Database/JTG.md)|&check;|&check;| Good Pay, StartUp

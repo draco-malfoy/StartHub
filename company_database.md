@@ -11,7 +11,7 @@ Name|Remote|Degree required|Other Notes
 [Infosys](https://github.com/ImagineZero0/StartHub/blob/company-name/Company%20Information/Infosys.md)|&check;|&check;|Well Known, Tech Gaint
 [Intuit](https://github.com/ImagineZero0/StartHub/blob/company-name/Company%20Information/Intuit.md)|&check;|&check;| Well Known, Tech Gaint
 [LinkedIn](https://github.com/ImagineZero0/StartHub/blob/company-name/Company%20Information/LinkedIn.md)|&check;|&check;| Well Known, Tech Gaint
-[Microsoft](https://github.com/ImagineZero0/StartHub/blob/company-name/Company%20Information/Microsoft.md)|&check;|&check;|Good Pay, Large Corporation
+[Microsoft]()|&check;|&check;|Good Pay, Large Corporation
 [Stickermule](https://github.com/ImagineZero0/StartHub/blob/company-name/Company%20Information/Stickermule.md)|&cross;|&check;|Good pay, Small team
 [Tata Consultancy Services(TCS)](https://github.com/ImagineZero0/StartHub/blob/company-name/Company%20Information/Tata_Consultancy_Services.md)|&check;|&check;|Well Known, Good pay
 [Wipro](https://github.com/ImagineZero0/StartHub/blob/company-name/Company%20Information/Wipro.md)|&check;|&check;|Well Known, Tech Gaint ,Large Corporation

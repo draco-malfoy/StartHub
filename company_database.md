@@ -7,4 +7,8 @@ Name|Remote|Degree required|Other Notes
 [Tata Consultancy Services(TCS)](https://github.com/draco-malfoy/StartHub/blob/main/Tata_Consultancy_Services(TCS).md)|&check;|&check;|Well Known, Good pay
 [Wipro](https://github.com/pv24/StartHub/blob/patch-1/Wipro.md)|&check;|&check;|Well Known, Tech Gaint ,Large Corporation
 [Infosys](https://github.com/pv24/StartHub/blob/patch-1/Infosys.md)|&check;|&check;|Well Known, Tech Gaint 
+<<<<<<< HEAD
 [Dev](https://github.com/Lkleindesigns/StartHub/blob/main/Dev.md)|&check;|&cross;|Good pay, Small team
+=======
+[Dev](https://dev.to/)|&check;|&cross;|Good pay, Small team
+>>>>>>> fc8dacc45311517da9618984a4d5c5f4249596aa

@@ -21,6 +21,8 @@ You can support by contributing in any of the following ways-
   - provide suggestions
   
  **P.S:** Kindly adhere to the existing formatting and file names.
+ 
+ **All hail open source.**
 
 ### Contributors ✨
 

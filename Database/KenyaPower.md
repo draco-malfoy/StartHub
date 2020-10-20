@@ -1,4 +1,4 @@
-## Safaricom
+## Kenya Power & Lighting Combany
 
 | Content         | Description                          |
 | --------------- | ------------------------------------ |

@@ -2,7 +2,7 @@
 
 | Content         | Description                  |
 | --------------- | ---------------------------  |
-| Name            | Sanjeev Bikhchandani		     |
+| Name            | Infoedge		 		     |
 | Founded         | 1995                         |
 | Website         | https://infoedge.in/         |
 | Careers         | https://careers.infoedge.in/ |

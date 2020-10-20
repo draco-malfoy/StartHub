@@ -2,7 +2,7 @@
 
 | Content         | Description                 |
 | --------------- | --------------------------- |
-| Name            | Larry Page & Sergey Brin    |
+| Name            | Google 					    |
 | Founded         | 1998                        |
 | Website         | https://google.com/         |
 | Careers         | https://careers.google.com/ |

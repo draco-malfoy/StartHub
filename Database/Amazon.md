@@ -2,7 +2,7 @@
 
 | Content         | Description                     |
 | --------------- | --------------------------------|
-| Name            | Jeff Bezos                      |
+| Name            | Amazon                          |
 | Founded         | 1994                            |
 | Website         | https://amazon.com/             |
 | Careers         | https://www.amazon.jobs/en-gb/  |

@@ -2,7 +2,7 @@
 
 | Content         | Description                         |
 | --------------- | ----------------------------------- |
-| Name            | Jerry Yang, David Filo              |
+| Name            | Yahoo   			                |
 | Founded         | 1994                                |
 | Website         | https://yahoo.com/                  |
 | Careers         | https://research.yahoo.com/careers  |

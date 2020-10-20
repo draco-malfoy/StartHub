@@ -2,7 +2,7 @@
 
 | Content         | Description                 |
 | --------------- | --------------------------- |
-| Name            | Vijay Shekhar Sharma        |
+| Name            | Paytm 				        |
 | Founded         | 2010                        |
 | Website         | https://paytm.com/          |
 | Careers         | https://paytm.com/careers/  |

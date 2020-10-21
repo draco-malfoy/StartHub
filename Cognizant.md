@@ -3,8 +3,7 @@
 Content|Description
 -|-
 Name|Cognizant
-Website|[Home Page](https://www.cognizant.com/)
-Careers|[Career Page](https://careers.cognizant.com/global/en)
-Founded|1994
+Website|https://www.cognizant.com/
+Careers|https://careers.cognizant.com/global/en
 Degree required|Yes
 Remote work|Yes

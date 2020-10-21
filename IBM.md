@@ -3,8 +3,7 @@
 Content|Description
 -|-
 Name|IBM
-Website|[Home Page](https://www.ibm.com/in-en)
-Careers|[Career Page](https://careers.ibm.com/)
-Founded|1911
+Website|https://www.ibm.com/in-en
+Careers|https://careers.ibm.com/
 Degree required|No
 Remote work|Yes

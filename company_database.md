@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+Name|Remote|Degree required|Other Notes
+-|-|-|-
+>>>>>>> 7915e6dff30353eaff3c17c034f0399e857f670f
 [Adobe](https://github.com/ImagineZero0/StartHub/blob/company-name/Adobe.md)|&check;|&check;|Multinational Computer Software Company, Well Known, Tech Giant
 [Apple](https://github.com/ImagineZero0/StartHub/blob/company-name/Apple.md)|&check;|&check;| Big Four, MNC, Computer and Online Services, Big Tech Giant
 [Appsmith](https://github.com/ImagineZero0/StartHub/blob/company-name/Appsmith.md)|&check;|&check;|Good pay, Startup

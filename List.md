@@ -5,6 +5,7 @@
 | [Amazon](https://github.com/draco-malfoy/StartHub/blob/main/Database/Amazon.md)                                                 | &check; | &cross;         | Well Known, Multinational Corporation, Tech Giant, Great Reimbursement      |
 | [Amdocs](https://github.com/draco-malfoy/StartHub/blob/main/Database/Amdocs.md)                                                 | &check; | &check;         | Well Known, Multinational Corporation, Tech Giant, Great Reimbursement,Specializes in software and services for communications, Media and financial services providers and digital enterprises      |
 | [Appsmith](https://github.com/draco-malfoy/StartHub/blob/main/Database/Appsmith.md)                                                   | &check; | &check;         | Good pay, Startup                                                                    |
+| [Automata4](https://github.com/draco-malfoy/StartHub/blob/main/Database/Automata4.md)                                                 | &check; | &check;         | Well Known, Programming ,Meduim Group                                            |
 | [Big Vision LLC](https://github.com/draco-malfoy/StartHub/blob/main/Database/BigVisionLLC.md)                                                         | &check; | &check;         | Good Learning Experience, Good Pay, Work Life Balance                                            |
 | [Clumio](https://github.com/draco-malfoy/StartHub/blob/main/Database/Clumio.md)                                                       | &check; | &check;         | Good pay, Small team, Fast Growing startup                                           |
 | [Cognizant](https://github.com/draco-malfoy/StartHub/blob/main/Database/Cognizant.md)                                                 | &check; | &check;         | Well Known, Tech Gaint    
@@ -36,4 +37,3 @@
 | [WarnerBros](https://github.com/draco-malfoy/StartHub/blob/main/WarnerBros.md)                                                         | &cross;  | &check;      |Good pay, Public Company |
 | [Wipro](https://github.com/draco-malfoy/StartHub/blob/main/Database/Wipro.md)                                                         | &check; | &check;         | Well Known, Tech Gaint ,Large Corporation    
 | [Yahoo](https://github.com/draco-malfoy/StartHub/blob/main/Database/Yahoo.md)                                                         | &check; | &cross;         | Well Known, Tech Gaint ,Large Corporation    
-

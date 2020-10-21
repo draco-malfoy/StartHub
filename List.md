@@ -6,7 +6,7 @@
 | [Big Vision LLC](https://github.com/draco-malfoy/StartHub/blob/main/Database/BigVisionLLC.md)                                                         | &check; | &check;         | Good Learning Experience, Good Pay, Work Life Balance                                            |
 | [Clumio](https://github.com/draco-malfoy/StartHub/blob/main/Database/Clumio.md)                                                       | &check; | &check;         | Good pay, Small team, Fast Growing startup                                           |
 | [Cognizant](https://github.com/draco-malfoy/StartHub/blob/main/Database/Cognizant.md) 
-                                                | &check; | &check;         | Well Known, Tech Gaint    
+                                                		| &check; | &check;         | Well Known, Tech Gaint   | 
 | [Dentalkart](https://github.com/draco-malfoy/StartHub/blob/main/Database/Dentalkart.md)
 												| &check; | &check;			| Startup, Small team
 | [Dev](https://github.com/draco-malfoy/StartHub/blob/main/Database/Dev.md)                                                         | &check; | &cross;         | Good pay, Small team 

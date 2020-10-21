@@ -1,6 +1,6 @@
 ## StartHub
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Bootstrap your search for career!
 
@@ -49,6 +49,9 @@ Thanks goes to these wonderful people:
     <td align="center"><a href="https://github.com/kontesanjana"><img src="https://avatars1.githubusercontent.com/u/70254253?v=4" width="100px;" alt=""/><br /><sub><b>kontesanjana</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=kontesanjana" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/bibbudata"><img src="https://avatars2.githubusercontent.com/u/52759414?v=4" width="100px;" alt=""/><br /><sub><b>bibbudata</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=bibbudata" title="Documentation">📖</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/kiran-thomas-cherian-23b93b1aa/"><img src="https://avatars3.githubusercontent.com/u/61133050?v=4" width="100px;" alt=""/><br /><sub><b>Kiran Thomas Cherian</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=KiranThomasCherian" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/yashbhal"><img src="https://avatars0.githubusercontent.com/u/65132556?v=4" width="100px;" alt=""/><br /><sub><b>yashbhal</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=yashbhal" title="Documentation">📖</a></td>
   </tr>
 </table>
 

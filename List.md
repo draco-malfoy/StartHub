@@ -35,4 +35,5 @@
 | [WarnerBros](https://github.com/draco-malfoy/StartHub/blob/main/WarnerBros.md)                                                         | &cross;  | &check;      |Good pay, Public Company |
 | [Wipro](https://github.com/draco-malfoy/StartHub/blob/main/Database/Wipro.md)                                                         | &check; | &check;         | Well Known, Tech Gaint ,Large Corporation    
 | [Yahoo](https://github.com/draco-malfoy/StartHub/blob/main/Database/Yahoo.md)                                                         | &check; | &cross;         | Well Known, Tech Gaint ,Large Corporation    
+| [Automata4](https://github.com/draco-malfoy/StartHub/blob/main/Database/Automata4.md)                                                 | &check; | &check;         | Well Known, Programming ,Meduim Group                                            |
 

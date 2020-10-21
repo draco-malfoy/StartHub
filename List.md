@@ -5,7 +5,10 @@
 | [Appsmith](https://github.com/draco-malfoy/StartHub/blob/main/Database/Appsmith.md)                                                   | &check; | &check;         | Good pay, Startup                                                                    |
 | [Big Vision LLC](https://github.com/draco-malfoy/StartHub/blob/main/Database/BigVisionLLC.md)                                                         | &check; | &check;         | Good Learning Experience, Good Pay, Work Life Balance                                            |
 | [Clumio](https://github.com/draco-malfoy/StartHub/blob/main/Database/Clumio.md)                                                       | &check; | &check;         | Good pay, Small team, Fast Growing startup                                           |
-| [Cognizant](https://github.com/draco-malfoy/StartHub/blob/main/Database/Cognizant.md)                                                 | &check; | &check;         | Well Known, Tech Gaint    
+| [Cognizant](https://github.com/draco-malfoy/StartHub/blob/main/Database/Cognizant.md) 
+                                                | &check; | &check;         | Well Known, Tech Gaint    
+| [Dentalkart](https://github.com/draco-malfoy/StartHub/blob/main/Database/Dentalkart.md)
+												| &check; | &check;			| Startup, Small team
 | [Dev](https://github.com/draco-malfoy/StartHub/blob/main/Database/Dev.md)                                                         | &check; | &cross;         | Good pay, Small team 
 | [Electronic Arts](https://github.com/draco-malfoy/StartHub/blob/main/Database/ElectronicArts.md)                                      | &check; | &check;         | Famous, Gaming Industry Giants                                                      |
 | [Enphase](https://github.com/draco-malfoy/StartHub/blob/main/Database/Enphase.md)                                                     | &check; | &check;         | Good Pay, Emerging company, Work-life Balance                                        |
@@ -16,6 +19,7 @@
 | [IBM](https://github.com/draco-malfoy/StartHub/blob/main/Database/IBM.md)                                                             | &check; | &cross;         | Good pay, Tech Gaint                                                                 |
 | [Infosys](https://github.com/draco-malfoy/StartHub/blob/main/Database/Infosys.md)                                                     | &check; | &check;         | Well Known, Tech Gaint                                                               |
 | [KenyaPower](https://github.com/draco-malfoy/StartHub/blob/main/Database/KenyaPower.md)                                                     | &check; | &check;         | Well Known, Large Corporation
+| [LTI](https://github.com/draco-malfoy/StartHub/blob/main/Database/LTI.md)                                                     | &check; | &check;         | Well Known, Large Corporation
 | [Microsoft](https://github.com/draco-malfoy/StartHub/blob/main/Database/Microsoft.md)                                                 | &check; | &check;         | Good Pay, Large Corporation                                                          |
 | [NCR GLOBAL](https://github.com/draco-malfoy/StartHub/blob/main/Database/NCR%20Global.md)                                             | &check; | &check;         | Good Pay, Large Corporation                                                          |
 | [Opener](https://github.com/draco-malfoy/StartHub/blob/main/Opener.md)                                                                 | &cross;  |&check;           |Good pay, Small team

@@ -1,6 +1,6 @@
 ## StartHub
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-25-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Bootstrap your search for career!
 
@@ -63,6 +63,7 @@ Thanks goes to these wonderful people:
     <td align="center"><a href="https://github.com/sshekhar1996"><img src="https://avatars2.githubusercontent.com/u/20168925?v=4" width="100px;" alt=""/><br /><sub><b>sshekhar1996</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=sshekhar1996" title="Documentation">📖</a></td>
     <td align="center"><a href="https://medium.com/@victoriapm"><img src="https://avatars2.githubusercontent.com/u/4315804?v=4" width="100px;" alt=""/><br /><sub><b>Victoria Perez Mola</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=Victoriapm" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/leofls"><img src="https://avatars1.githubusercontent.com/u/24808627?v=4" width="100px;" alt=""/><br /><sub><b>Leandro Ferreira</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=leofls" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://luizfantin.github.io/"><img src="https://avatars1.githubusercontent.com/u/42882414?v=4" width="100px;" alt=""/><br /><sub><b>Luiz Fantin</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=LuizFantin" title="Documentation">📖</a></td>
   </tr>
 </table>
 

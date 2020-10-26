@@ -1,6 +1,6 @@
 ## StartHub
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Bootstrap your search for career!
 
@@ -65,6 +65,7 @@ Thanks goes to these wonderful people:
     <td align="center"><a href="https://github.com/leofls"><img src="https://avatars1.githubusercontent.com/u/24808627?v=4" width="100px;" alt=""/><br /><sub><b>Leandro Ferreira</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=leofls" title="Documentation">📖</a></td>
     <td align="center"><a href="https://luizfantin.github.io/"><img src="https://avatars1.githubusercontent.com/u/42882414?v=4" width="100px;" alt=""/><br /><sub><b>Luiz Fantin</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=LuizFantin" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/mani9793"><img src="https://avatars2.githubusercontent.com/u/58118039?v=4" width="100px;" alt=""/><br /><sub><b>Mansi Katiyar</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=mani9793" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/sophiazhang6216"><img src="https://avatars1.githubusercontent.com/u/72472305?v=4" width="100px;" alt=""/><br /><sub><b>sophiazhang6216</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=sophiazhang6216" title="Documentation">📖</a></td>
   </tr>
 </table>
 

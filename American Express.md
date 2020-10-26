@@ -2,7 +2,7 @@
 | --------------- | ----------------------------------- |
 | Name            | American Express(Amex)			        |
 | Founded         | 1850                                |
-| Careers         | https://careers.americanexpress.com |
 | Website         | https://www.americanexpress.com/in/ |
+| Careers         | https://careers.americanexpress.com |
 | Degree required | Yes                                 |
 | Remote work     | Yes                                 |

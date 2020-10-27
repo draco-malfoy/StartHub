@@ -1,6 +1,6 @@
 ## StartHub
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Bootstrap your search for career!
 
@@ -70,6 +70,7 @@ Thanks goes to these wonderful people:
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/shivarajloni"><img src="https://avatars2.githubusercontent.com/u/42679657?v=4" width="100px;" alt=""/><br /><sub><b>Shivaraj Loni</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=shivarajloni" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/hasna-akbarali"><img src="https://avatars2.githubusercontent.com/u/44140720?v=4" width="100px;" alt=""/><br /><sub><b>hasna-akbarali</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=hasna-akbarali" title="Documentation">📖</a></td>
   </tr>
 </table>
 

@@ -265,9 +265,18 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "hasna-akbarali",
+      "name": "hasna-akbarali",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/44140720?v=4",
+      "profile": "https://github.com/hasna-akbarali",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
-  "contributorsPerLine": 7,
+  "contributorsPerLine": 8,
   "projectName": "StartHub",
   "projectOwner": "draco-malfoy",
   "repoType": "github",

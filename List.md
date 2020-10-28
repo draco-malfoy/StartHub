@@ -57,4 +57,4 @@
 | [Youtube](https://github.com/draco-malfoy/StartHub/blob/main/Database/Youtube.md)                                                   | &check; | &cross;         | A feature where you can play youtube videos even after you lock your phone.
 | [Zoom](https://github.com/draco-malfoy/StartHub/blob/main/Database/Zoom.md)                                                            | &check; | &check;         | American Communication Technology Company, Videotelephony and Online Chat Services   |
 | [Letras](https://github.com/draco-malfoy/StartHub/blob/main/Database/Letras.md)                                                   | &check; | &cross;         | Small team, Music Tech.
-| [AcessoDigital](https://github.com/draco-malfoy/StartHub/blob/main/Database/AcessoDigital.md)                                                   | &check; | &cross;         | IDTech, Big Team.
+| [AcessoDigital](https://github.com/draco-malfoy/StartHub/blob/main/Database/AcessoDigital.md)                                                   | &check; | &cross;         | IDTech, Large Team.

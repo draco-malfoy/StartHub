@@ -16,6 +16,7 @@
 | [Cisco Systems](https://github.com/draco-malfoy/StartHub/blob/main/Database/Cisco_Systems.md)                                          | &check; | &check;         | Well Known, Tech Giant                                                               |
 | [Clumio](https://github.com/draco-malfoy/StartHub/blob/main/Database/Clumio.md)                                                       | &check; | &check;         | Good pay, Small team, Fast Growing startup                                           |
 | [Cognizant](https://github.com/draco-malfoy/StartHub/blob/main/Database/Cognizant.md)                                                 | &check; | &check;         | Well Known, Tech Gaint   
+| [Curve](https://github.com/draco-malfoy/StartHub/blob/main/Database/Curve.md)								| &cross; | &check;         | Startup, tech   
 |[Deloitte](https://github.com/mani9793/StartHub/blob/main/Deloitte.md)                                               | &check; | &check;			| Well known , private firm , provides professional services  |                           
 | [Dentalkart](https://github.com/draco-malfoy/StartHub/blob/main/Database/Dentalkart.md)                                               | &check; | &check;			| Startup, Small team                                                                  |
 | [Dev](https://github.com/draco-malfoy/StartHub/blob/main/Database/Dev.md)                                                             | &check; | &cross;         | Good pay, Small team                                                                 |

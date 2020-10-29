@@ -310,6 +310,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "markymauro13",
+      "name": "Mark Mauro",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/18267324?v=4",
+      "profile": "http://marky.tech",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 8,

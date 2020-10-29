@@ -1,5 +1,6 @@
 | Name                                                                                                                                  | Remote  | Degree required | Other Notes                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------------- | ------------------------------------------------------------------------------------ |
+| [Abc](https://github.com/draco-malfoy/StartHub/blob/main/Database/Abc.md) 
 | [Accenture](https://github.com/draco-malfoy/StartHub/blob/main/Database/Accenture.md)                                                 | &check; | &check;         | Well Known, Tech Gaint ,Large Corporation                                            |
 | [Adobe](https://github.com/draco-malfoy/StartHub/blob/main/Database/Adobe.md)                                                          | &check; | &check;         | Multinational Computer Software Company, Well Known, Tech Giant                      |
 | [Andela Kenya](https://github.com/draco-malfoy/StartHub/blob/main/Database/Andela.md)                                                 | &check; | &check;         | Well Known, Top Software Development Company in Kenya, Tech Giant , Large Corporation|

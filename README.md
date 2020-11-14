@@ -1,6 +1,6 @@
 ## StartHub
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Bootstrap your search for career!
 
@@ -85,6 +85,7 @@ Thanks goes to these wonderful people:
   <tr>
     <td align="center"><a href="https://github.com/whysogreen"><img src="https://avatars0.githubusercontent.com/u/32598568?v=4" width="100px;" alt=""/><br /><sub><b>whysogreen</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=whysogreen" title="Documentation">📖</a></td>
     <td align="center"><a href="https://leotabosa.github.io/"><img src="https://avatars0.githubusercontent.com/u/52679384?v=4" width="100px;" alt=""/><br /><sub><b>Leonardo Braga</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=leotabosa" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/adrianTJenkins"><img src="https://avatars2.githubusercontent.com/u/29577361?v=4" width="100px;" alt=""/><br /><sub><b>Adrian Jenkins</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=adrianTJenkins" title="Documentation">📖</a></td>
   </tr>
 </table>
 

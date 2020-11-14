@@ -382,6 +382,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "adrianTJenkins",
+      "name": "Adrian Jenkins",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/29577361?v=4",
+      "profile": "https://github.com/adrianTJenkins",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 8,

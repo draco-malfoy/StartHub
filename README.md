@@ -86,6 +86,8 @@ Thanks goes to these wonderful people:
     <td align="center"><a href="https://github.com/whysogreen"><img src="https://avatars0.githubusercontent.com/u/32598568?v=4" width="100px;" alt=""/><br /><sub><b>whysogreen</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=whysogreen" title="Documentation">📖</a></td>
     <td align="center"><a href="https://leotabosa.github.io/"><img src="https://avatars0.githubusercontent.com/u/52679384?v=4" width="100px;" alt=""/><br /><sub><b>Leonardo Braga</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=leotabosa" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/adrianTJenkins"><img src="https://avatars2.githubusercontent.com/u/29577361?v=4" width="100px;" alt=""/><br /><sub><b>Adrian Jenkins</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=adrianTJenkins" title="Documentation">📖</a></td>
+     <td align="center"><a href="https://github.com/feurialblack"><img src="https://avatars.githubusercontent.com/feurialblack" width="100px;" alt=""/><br /><sub><b>Rahul Wasnik</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=FeurialBlack" title="Documentation">📖</a></td>
+    
   </tr>
 </table>
 

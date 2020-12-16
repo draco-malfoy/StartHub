@@ -392,6 +392,15 @@
         "doc"
       ]
     }
+    {
+      "login": "FeurialBlack",
+      "name": "Rahul Wasnik",
+      "avatar_url": "https://avatars.githubusercontent.com/feurialblack",
+      "profile": "https://github.com/FeurialBlack",
+      "contributions": [
+        "doc"
+      ]
+    },
   ],
   "contributorsPerLine": 8,
   "projectName": "StartHub",

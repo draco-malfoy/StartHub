@@ -1,6 +1,6 @@
 ## StartHub
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-45-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-46-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Bootstrap your search for career!
 
@@ -88,6 +88,7 @@ Thanks goes to these wonderful people:
     <td align="center"><a href="https://github.com/adrianTJenkins"><img src="https://avatars2.githubusercontent.com/u/29577361?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Adrian Jenkins</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=adrianTJenkins" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/FeurialBlack"><img src="https://avatars0.githubusercontent.com/u/1713322?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Feurial Black</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=FeurialBlack" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/SanthoshS20"><img src="https://avatars.githubusercontent.com/u/37366893?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Santhosh S</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=SanthoshS20" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ghostoverflow"><img src="https://avatars.githubusercontent.com/u/50262751?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hunzlah</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=ghostoverflow" title="Documentation">📖</a></td>
   </tr>
 </table>
 

@@ -90,6 +90,7 @@ Thanks goes to these wonderful people:
     <td align="center"><a href="https://github.com/SanthoshS20"><img src="https://avatars.githubusercontent.com/u/37366893?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Santhosh S</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=SanthoshS20" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ghostoverflow"><img src="https://avatars.githubusercontent.com/u/50262751?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hunzlah</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=ghostoverflow" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/tanishghosh"><img src="https://avatars.githubusercontent.com/u/38141788?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tanish Ghosh</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=tanishghosh" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ScienceDeveloper"><img src="https://avatars.githubusercontent.com/u/38910352?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ScienceDeveloper</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=ScienceDeveloper" title="Documentation">📖</a></td>
   </tr>
 </table>
 

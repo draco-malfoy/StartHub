@@ -418,6 +418,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "ScienceDeveloper",
+      "name": "ScienceDeveloper",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38910352?v=4",
+      "profile": "https://github.com/ScienceDeveloper",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 8,

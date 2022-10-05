@@ -92,6 +92,9 @@ Thanks goes to these wonderful people:
     <td align="center"><a href="https://github.com/tanishghosh"><img src="https://avatars.githubusercontent.com/u/38141788?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tanish Ghosh</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=tanishghosh" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ScienceDeveloper"><img src="https://avatars.githubusercontent.com/u/38910352?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ScienceDeveloper</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/commits?author=ScienceDeveloper" title="Documentation">📖</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/dwijmistry11"><img src="https://avatars.githubusercontent.com/u/49182142?v=4" width="100px;" alt=""/><br /><sub><b>Dwij Mistry</b></sub></a><br /><a href="https://github.com/draco-malfoy/StartHub/pull/138" title="Documentation">📖</a></td>
+  </td>
 </table>
 
 <!-- markdownlint-restore -->
